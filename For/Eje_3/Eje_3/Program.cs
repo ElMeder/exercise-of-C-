@@ -1,7 +1,5 @@
 ﻿using System;
 
-//Tarea de Jasmin Angelique Pech Hernandez
-
 class Program
 {
     static void Main()
