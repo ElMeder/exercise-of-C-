@@ -1,0 +1,14 @@
+C:\Users\meder\source\repos\Matriz\Matriz\obj\Debug\net7.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meder\source\repos\Matriz\Matriz\obj\Debug\net7.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\meder\source\repos\Matriz\Matriz\obj\Debug\net7.0\Matriz.AssemblyInfo.cs
+C:\Users\meder\source\repos\Matriz\Matriz\obj\Debug\net7.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\meder\source\repos\Matriz\Matriz\bin\Debug\net7.0\Matriz.exe
+C:\Users\meder\source\repos\Matriz\Matriz\bin\Debug\net7.0\Matriz.deps.json
+C:\Users\meder\source\repos\Matriz\Matriz\bin\Debug\net7.0\Matriz.runtimeconfig.json
+C:\Users\meder\source\repos\Matriz\Matriz\bin\Debug\net7.0\Matriz.dll
+C:\Users\meder\source\repos\Matriz\Matriz\bin\Debug\net7.0\Matriz.pdb
+C:\Users\meder\source\repos\Matriz\Matriz\obj\Debug\net7.0\Matriz.dll
+C:\Users\meder\source\repos\Matriz\Matriz\obj\Debug\net7.0\refint\Matriz.dll
+C:\Users\meder\source\repos\Matriz\Matriz\obj\Debug\net7.0\Matriz.pdb
+C:\Users\meder\source\repos\Matriz\Matriz\obj\Debug\net7.0\Matriz.genruntimeconfig.cache
+C:\Users\meder\source\repos\Matriz\Matriz\obj\Debug\net7.0\ref\Matriz.dll

@@ -1,0 +1,14 @@
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\bin\Debug\net7.0\examen parte 1.exe
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\bin\Debug\net7.0\examen parte 1.deps.json
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\bin\Debug\net7.0\examen parte 1.runtimeconfig.json
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\bin\Debug\net7.0\examen parte 1.dll
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\bin\Debug\net7.0\examen parte 1.pdb
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\obj\Debug\net7.0\examen parte 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\obj\Debug\net7.0\examen parte 1.AssemblyInfoInputs.cache
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\obj\Debug\net7.0\examen parte 1.AssemblyInfo.cs
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\obj\Debug\net7.0\examen parte 1.csproj.CoreCompileInputs.cache
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\obj\Debug\net7.0\examen parte 1.dll
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\obj\Debug\net7.0\refint\examen parte 1.dll
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\obj\Debug\net7.0\examen parte 1.pdb
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\obj\Debug\net7.0\examen parte 1.genruntimeconfig.cache
+C:\Users\meder\source\repos\examen parte 1\examen parte 1\obj\Debug\net7.0\ref\examen parte 1.dll

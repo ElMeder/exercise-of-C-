@@ -1,0 +1,14 @@
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\bin\Debug\net7.0\Examen parte 2.exe
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\bin\Debug\net7.0\Examen parte 2.deps.json
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\bin\Debug\net7.0\Examen parte 2.runtimeconfig.json
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\bin\Debug\net7.0\Examen parte 2.dll
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\bin\Debug\net7.0\Examen parte 2.pdb
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\obj\Debug\net7.0\Examen parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\obj\Debug\net7.0\Examen parte 2.AssemblyInfoInputs.cache
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\obj\Debug\net7.0\Examen parte 2.AssemblyInfo.cs
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\obj\Debug\net7.0\Examen parte 2.csproj.CoreCompileInputs.cache
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\obj\Debug\net7.0\Examen parte 2.dll
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\obj\Debug\net7.0\refint\Examen parte 2.dll
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\obj\Debug\net7.0\Examen parte 2.pdb
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\obj\Debug\net7.0\Examen parte 2.genruntimeconfig.cache
+C:\Users\meder\source\repos\Examen parte 2\Examen parte 2\obj\Debug\net7.0\ref\Examen parte 2.dll

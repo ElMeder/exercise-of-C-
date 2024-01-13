@@ -1,0 +1,14 @@
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\obj\Debug\net7.0\Ejer_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\obj\Debug\net7.0\Ejer_2.AssemblyInfoInputs.cache
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\obj\Debug\net7.0\Ejer_2.AssemblyInfo.cs
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\obj\Debug\net7.0\Ejer_2.csproj.CoreCompileInputs.cache
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\bin\Debug\net7.0\Ejer_2.exe
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\bin\Debug\net7.0\Ejer_2.deps.json
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\bin\Debug\net7.0\Ejer_2.runtimeconfig.json
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\bin\Debug\net7.0\Ejer_2.dll
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\bin\Debug\net7.0\Ejer_2.pdb
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\obj\Debug\net7.0\Ejer_2.dll
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\obj\Debug\net7.0\refint\Ejer_2.dll
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\obj\Debug\net7.0\Ejer_2.pdb
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\obj\Debug\net7.0\Ejer_2.genruntimeconfig.cache
+C:\Users\meder\source\repos\For\Ejer_2\Ejer_2\obj\Debug\net7.0\ref\Ejer_2.dll

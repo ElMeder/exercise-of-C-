@@ -1,0 +1,14 @@
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\bin\Debug\net7.0\2.- 2 Turistas.exe
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\bin\Debug\net7.0\2.- 2 Turistas.deps.json
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\bin\Debug\net7.0\2.- 2 Turistas.runtimeconfig.json
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\bin\Debug\net7.0\2.- 2 Turistas.dll
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\bin\Debug\net7.0\2.- 2 Turistas.pdb
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\obj\Debug\net7.0\2.- 2 Turistas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\obj\Debug\net7.0\2.- 2 Turistas.AssemblyInfoInputs.cache
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\obj\Debug\net7.0\2.- 2 Turistas.AssemblyInfo.cs
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\obj\Debug\net7.0\2.- 2 Turistas.csproj.CoreCompileInputs.cache
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\obj\Debug\net7.0\2.- 2 Turistas.dll
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\obj\Debug\net7.0\refint\2.- 2 Turistas.dll
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\obj\Debug\net7.0\2.- 2 Turistas.pdb
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\obj\Debug\net7.0\2.- 2 Turistas.genruntimeconfig.cache
+C:\Users\meder\source\repos\if\2.- 2 Turistas\2.- 2 Turistas\obj\Debug\net7.0\ref\2.- 2 Turistas.dll

@@ -1,0 +1,14 @@
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\bin\Debug\net7.0\1. Horas Extras.exe
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\bin\Debug\net7.0\1. Horas Extras.deps.json
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\bin\Debug\net7.0\1. Horas Extras.runtimeconfig.json
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\bin\Debug\net7.0\1. Horas Extras.dll
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\bin\Debug\net7.0\1. Horas Extras.pdb
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\obj\Debug\net7.0\1. Horas Extras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\obj\Debug\net7.0\1. Horas Extras.AssemblyInfoInputs.cache
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\obj\Debug\net7.0\1. Horas Extras.AssemblyInfo.cs
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\obj\Debug\net7.0\1. Horas Extras.csproj.CoreCompileInputs.cache
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\obj\Debug\net7.0\1. Horas Extras.dll
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\obj\Debug\net7.0\refint\1. Horas Extras.dll
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\obj\Debug\net7.0\1. Horas Extras.pdb
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\obj\Debug\net7.0\1. Horas Extras.genruntimeconfig.cache
+C:\Users\meder\source\repos\if\1. Horas Extras\1. Horas Extras\obj\Debug\net7.0\ref\1. Horas Extras.dll

@@ -1,0 +1,14 @@
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\bin\Debug\net7.0\3.- Cliente y pago.exe
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\bin\Debug\net7.0\3.- Cliente y pago.deps.json
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\bin\Debug\net7.0\3.- Cliente y pago.runtimeconfig.json
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\bin\Debug\net7.0\3.- Cliente y pago.dll
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\bin\Debug\net7.0\3.- Cliente y pago.pdb
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\obj\Debug\net7.0\3.- Cliente y pago.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\obj\Debug\net7.0\3.- Cliente y pago.AssemblyInfoInputs.cache
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\obj\Debug\net7.0\3.- Cliente y pago.AssemblyInfo.cs
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\obj\Debug\net7.0\3.- Cliente y pago.csproj.CoreCompileInputs.cache
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\obj\Debug\net7.0\3.- Cliente y pago.dll
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\obj\Debug\net7.0\refint\3.- Cliente y pago.dll
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\obj\Debug\net7.0\3.- Cliente y pago.pdb
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\obj\Debug\net7.0\3.- Cliente y pago.genruntimeconfig.cache
+C:\Users\meder\source\repos\if\3.- Cliente y pago\3.- Cliente y pago\obj\Debug\net7.0\ref\3.- Cliente y pago.dll

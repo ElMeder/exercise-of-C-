@@ -1,0 +1,14 @@
+C:\Users\meder\source\repos\For\eje_4\eje_4\bin\Debug\net7.0\eje_4.exe
+C:\Users\meder\source\repos\For\eje_4\eje_4\bin\Debug\net7.0\eje_4.deps.json
+C:\Users\meder\source\repos\For\eje_4\eje_4\bin\Debug\net7.0\eje_4.runtimeconfig.json
+C:\Users\meder\source\repos\For\eje_4\eje_4\bin\Debug\net7.0\eje_4.dll
+C:\Users\meder\source\repos\For\eje_4\eje_4\bin\Debug\net7.0\eje_4.pdb
+C:\Users\meder\source\repos\For\eje_4\eje_4\obj\Debug\net7.0\eje_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meder\source\repos\For\eje_4\eje_4\obj\Debug\net7.0\eje_4.AssemblyInfoInputs.cache
+C:\Users\meder\source\repos\For\eje_4\eje_4\obj\Debug\net7.0\eje_4.AssemblyInfo.cs
+C:\Users\meder\source\repos\For\eje_4\eje_4\obj\Debug\net7.0\eje_4.csproj.CoreCompileInputs.cache
+C:\Users\meder\source\repos\For\eje_4\eje_4\obj\Debug\net7.0\eje_4.dll
+C:\Users\meder\source\repos\For\eje_4\eje_4\obj\Debug\net7.0\refint\eje_4.dll
+C:\Users\meder\source\repos\For\eje_4\eje_4\obj\Debug\net7.0\eje_4.pdb
+C:\Users\meder\source\repos\For\eje_4\eje_4\obj\Debug\net7.0\eje_4.genruntimeconfig.cache
+C:\Users\meder\source\repos\For\eje_4\eje_4\obj\Debug\net7.0\ref\eje_4.dll
